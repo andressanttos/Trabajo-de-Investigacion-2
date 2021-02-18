@@ -1,4 +1,4 @@
-# Trabajo-de-Investigacion-2
+# Trabajo de Investigacion 2
 
 1. OBJETIVOS
 
