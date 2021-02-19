@@ -2,11 +2,9 @@
 
 1. OBJETIVOS
 
-• 
+• Analizar el teorema de superposición  y aplicarlo en circuitos con corriente alterna.
 
-•
-
-• 
+• Conocer las equivalencias de la fuentes de voltaje y corriente  al aplicar el teorema de superposición.
 
 • 
 
@@ -46,7 +44,7 @@
 
 5. Conclusiones
 
-•	
+•	El uso y aplicación del teorema de superposición es de gran efectividad cuando tenemos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electrónico y queremos calcular la intensidad que fluye en algún elemento en específico. En circuitos complejos no resulta práctico el uso de este método, por ejemplo, al realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
 
 • 
 
