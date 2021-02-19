@@ -18,7 +18,7 @@
 
 2. MARCO TEÓRICO
 
-![](img/
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/superpo.png)
 
 ![](img/
 
