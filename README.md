@@ -2,9 +2,14 @@
 
 1. OBJETIVOS
 
-• Analizar el teorema de superposición  y aplicarlo en circuitos con corriente alterna.
+•
 
-• Conocer las equivalencias de la fuentes de voltaje y corriente  al aplicar el teorema de superposición.
+• Analizar las aplicaciones que pueden tener los circuitos RC.
+
+•	Determinar los tipos de potencia que puede tener un circuito RC.
+
+•	Localizar las posibles fallas que pueda tener nuestro circuito RC por medio de comparación de datos.
+
 
 •  Comprobar de forma practica el teorema de Thevenin
 
