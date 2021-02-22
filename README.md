@@ -36,6 +36,27 @@
 
 
 
+•	Aplicaciones básicas
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.1.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.2.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.3.png)
+
+•	Localización de fallas
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.3.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.3.1.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.3.2.png)
+
+
+
+
 4. Explicación
 
 
