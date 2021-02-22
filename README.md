@@ -2,7 +2,7 @@
 
 1. OBJETIVOS
 
-•
+•Conocer conceptos  básicos sobre conductancia, susceptancia y admitancia para poder desarrollar el informe 
 
 • Analizar las aplicaciones que pueden tener los circuitos RC.
 
@@ -10,7 +10,7 @@
 
 •	Localizar las posibles fallas que pueda tener nuestro circuito RC por medio de comparación de datos.
 
-•
+•Identificar formulas básicas en los diferentes temas para ampliar nuestro conocimiento.
 
 •	
 
@@ -64,9 +64,9 @@
 
 5. Conclusiones
 
-•	
+•	La impedancia representa la oposición que ejerce un circuito eléctrico al paso de la corriente senoidal. La admitancia por su parte, representa lo contrario, la falta de oposición al paso de la corriente senoidal.
 
-• 
+• Tanto la impedancia como la admitancia se pueden expresar como cantidades complejas en forma rectangular o polar, es necesario resaltar que la impedancia no es un fasor, porque no varía senoidalmente.
 
 •	 
 
