@@ -18,12 +18,13 @@
 
 
 
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco2.1%202.2.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco3.1.png)
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco4.1.png)
 
-
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco4.2.png)
-
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco4.3.png)
 
