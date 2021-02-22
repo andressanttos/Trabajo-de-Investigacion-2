@@ -20,6 +20,8 @@
 
 ![](img/marco1.2.jpg)
 
+![](img/marco1.3.jpg)
+
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco2.1%202.2.png)
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco3.1.png)
@@ -36,10 +38,24 @@
 
 3. Diagramas
 
+*• Sistema de Números Complejos* 
+
+![](img/diagrama1.1.jpg)
+
+*• Respuesta Sinusoidal de circuitos Rc en serie*
+
+![](img/diagrama1.2.jpg)
+
+*• Impedancia de circuitos RC en serie*
+
+![](img/diagrama1.3.jpg)
+
+*• Análisis de circuitos RC en serie*
+
+![](img/diagrama1.4.jpg)
 
 
-
-•	Aplicaciones básicas
+*• Aplicaciones básicas*
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.png)
 
@@ -49,7 +65,7 @@
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.2.3.png)
 
-•	Localización de fallas
+*• Localización de fallas*
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/diagrama4.3.png)
 
