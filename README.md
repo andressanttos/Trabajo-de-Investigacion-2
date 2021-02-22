@@ -80,7 +80,7 @@
 
 • Teorema de transferencia de potencia máxima. La fisica y quimica. Recuperado de: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/	
 
-• 
+• Paralelo Circuito RLC y Análisis del circuito paralelo RLC. (s. f.). Tutoriales de electrónica básica. Recuperado 22 de febrero de 2021, de https://tutorialesdeelectronicabasica.blogspot.com/2016/06/paralelo-circuito-rlc-y-analisis-del.html
 
 • 
 
