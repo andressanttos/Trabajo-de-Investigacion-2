@@ -70,7 +70,7 @@
 
 •	 
 
-•	Para la resolución de estos ejercicios es fundamental el uso de conversiones de números complejos ya sea de forma rectangular a polar o de forma polar a rectangular y además a realizar operaciones básicas con los mismos.
+•	Para la resolución de estos ejercicios es fundamental el uso de conversiones de números complejos ya sea de forma rectangular a polar o de forma polar a rectangular asimismo es de vital importancia saber realizar las operaciones básicas con los mismos.
 
 •	
 
