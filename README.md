@@ -16,7 +16,9 @@
 
 2. MARCO TEÓRICO
 
+![](img/marco1.1.jpg)
 
+![](img/marco1.2.jpg)
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco2.1%202.2.png)
 
