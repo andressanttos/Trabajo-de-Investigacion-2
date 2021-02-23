@@ -22,6 +22,9 @@
 
 ![](img/marco1.3.jpg)
 
+
+![](img/marco1.4.jpg)
+
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco2.1%202.2.png)
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-2/blob/main/img/marco3.1.png)
